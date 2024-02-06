@@ -1,0 +1,15 @@
+/Users/suzannabuniatan/Desktop/recc/recurs/bin/Debug/net7.0/recurs
+/Users/suzannabuniatan/Desktop/recc/recurs/bin/Debug/net7.0/recurs.deps.json
+/Users/suzannabuniatan/Desktop/recc/recurs/bin/Debug/net7.0/recurs.runtimeconfig.json
+/Users/suzannabuniatan/Desktop/recc/recurs/bin/Debug/net7.0/recurs.dll
+/Users/suzannabuniatan/Desktop/recc/recurs/bin/Debug/net7.0/recurs.pdb
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/recurs.csproj.AssemblyReference.cache
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/recurs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/recurs.AssemblyInfoInputs.cache
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/recurs.AssemblyInfo.cs
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/recurs.csproj.CoreCompileInputs.cache
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/recurs.dll
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/refint/recurs.dll
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/recurs.pdb
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/recurs.genruntimeconfig.cache
+/Users/suzannabuniatan/Desktop/recc/recurs/obj/Debug/net7.0/ref/recurs.dll
